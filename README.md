@@ -1,6 +1,6 @@
 ---
 # 🧬 Cancer Detection Using Nanoparticles
-This repository presents a machine learning-powered system for breast cancer detection, simulating the effect of nanoparticle-enhanced biosensor data using the **Wisconsin Breast Cancer (Diagnostic) Dataset**. The project includes:
+This repository presents a machine learning-powered system for breast cancer detection, simulating the effect of nanoparticle-enhanced biosensor data using the Wisconsin Breast Cancer (Diagnostic) Dataset. The project includes:
 
 * 🔍 A Jupyter Notebook for exploratory data analysis, model training, and evaluation.
 * 🌐 A Streamlit web app for interactive predictions and visualization of model performance.
