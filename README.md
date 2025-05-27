@@ -120,7 +120,7 @@ notebooks/cancer_detection_eda.ipynb
 ## 💻 Run the Streamlit App Locally
 
 ```bash
-streamlit run src/app.py
+streamlit run app.py
 ```
 
 * Open your browser at `http://localhost:8501`
